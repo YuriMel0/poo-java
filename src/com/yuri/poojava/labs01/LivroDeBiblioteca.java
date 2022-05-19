@@ -8,7 +8,6 @@ public class LivroDeBiblioteca {
 	String categoria;
 	String codigoLivro;
 	int quantidadePaginas;
-	double preco;
 	int quantidadeDisponivel;
 	int diaDevolucao;
 	int mesDevolucao;
