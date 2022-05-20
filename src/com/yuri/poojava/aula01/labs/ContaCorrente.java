@@ -1,4 +1,4 @@
-package com.yuri.poojava.labs01;
+package com.yuri.poojava.aula01.labs;
 
 public class ContaCorrente {
 	
