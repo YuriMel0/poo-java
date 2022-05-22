@@ -1,6 +1,6 @@
 package com.yuri.poojava.aula02.labs;
 
-public class TesteLabs {
+public class TesteLampada {
 
 	public static void main(String[] args) {
 		
